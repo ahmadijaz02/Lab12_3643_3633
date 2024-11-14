@@ -1,3 +1,4 @@
+
 package lab12;
 
 public class Login {
@@ -5,3 +6,7 @@ public class Login {
 		return username.equals("admin") && password.equals("password123");
 	}
 }
+
+
+
+
